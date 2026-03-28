@@ -8,7 +8,7 @@ A Flask-based web application that displays real-time system information such as
 
 ## 🌐 Live Demo
 
-👉 [http://YOUR_PUBLIC_IP:5000
+👉 [http://MY WEB_IP:5000
 ](http://192.168.1.13:5000/)
 ---
 
