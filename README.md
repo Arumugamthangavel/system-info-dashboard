@@ -1,18 +1,18 @@
 
 
-# 🖥️ System Info Dashboard
+# System Info Dashboard
 
 A Flask-based web application that displays real-time system information such as CPU and memory usage. Containerized with Docker and deployed on AWS EC2.
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 👉 [http://MY WEB_IP:5000
 ](http://192.168.1.13:5000/)
 ---
 
-## 🚀 Features
+##  Features
 - Displays OS details  
 - Shows CPU usage  
 - Shows Memory usage  
@@ -20,7 +20,7 @@ A Flask-based web application that displays real-time system information such as
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python (Flask)
 - Docker
 - AWS EC2 (Ubuntu)
@@ -28,7 +28,7 @@ A Flask-based web application that displays real-time system information such as
 
 ---
 
-## ⚙️ Run Locally
+## Run Locally
 
 ```bash
 python app.py
